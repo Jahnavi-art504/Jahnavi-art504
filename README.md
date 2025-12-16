@@ -12,7 +12,7 @@ With industry experience spanning IT Services, Consulting, and Analytics, I have
 
 📱 Mobile: +91 7989325897
 
-🔗 LinkedIn: linkedin.com/in/
+🔗 LinkedIn: linkedin.com/in/jahnavi-krishna
 
 💻 GitHub: github.com/Jahnavi-art504 
 
