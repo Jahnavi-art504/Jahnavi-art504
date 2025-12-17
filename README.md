@@ -21,15 +21,27 @@ With industry experience spanning IT Services, Consulting, and Analytics, I have
 🛠️ Core Skills
 
 Power BI
+
 SQL
+
 Excel (Advanced)
+
 Tableau
+
 Python (Pandas, Numpy)
+
 Power Query (M, DAX)
+
 Data Analysis
+
 Business Intelligence
+
 Reporting Automation
+
 Problem Solving
+
 Data Modeling (Star/Snowflake)
+
 Descriptive & Inferential Stats
+
 💡 Personal Note I believe data isn't just about numbers — it's about uncovering patterns, solving problems, and telling the story that drives business forward. I'm always open to conversations about data, technology, and business insights.
