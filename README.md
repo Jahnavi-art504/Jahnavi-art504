@@ -1,6 +1,6 @@
 # 🚀Data Analyst | Power BI | SQL | Data Storytelling | Open to New Opportunities
 ## 🔎 About Me
-I'm Jahnavi Krishna, a passionate and results-oriented Data Analyst currently working at Accenture, Bangalore. I bring together strong technical expertise with business acumen to help organizations transform raw data into actionable insights, driving better decisions and measurable business outcomes.
+I'm Jahnavi Krishna, a passionate and results-oriented professional with 3.6 years of industry experience, currently transitioning from a Logistics/Operations background at Amazon into the world of Data Analytics. I specialize in transforming raw operational data into strategic business insights.
 
 I specialize in solving business problems through Data Visualization, Business Intelligence, and Data Analysis using tools like Power BI, SQL, Excel, Python, and Tableau. Whether it's crafting intuitive dashboards, modeling complex datasets, or automating reporting workflows, I focus on providing clarity and delivering value through data.
 
